@@ -9,7 +9,7 @@
 
 ## Skill Set:
 <img height=50 width=50 src="https://user-images.githubusercontent.com/108730135/198891440-6fee55cc-68a9-4c05-a32f-b0f5077bcd0c.svg" />&nbsp;&nbsp;&nbsp;<img height=50 width=50 src="https://user-images.githubusercontent.com/108730135/198892701-8e64b9af-c461-4062-845e-45eb05aed230.svg" />&nbsp;&nbsp;&nbsp;<img height=50 width=50 src="https://user-images.githubusercontent.com/108730135/198891876-da9cad9c-a0e1-4cf7-8cb3-445eead10dd1.svg" />&nbsp;&nbsp;&nbsp;<img height=50 width=50 src="https://user-images.githubusercontent.com/108730135/198892193-4f09334f-153e-4d20-9944-b21c84038207.svg" />&nbsp;&nbsp;&nbsp;<img height=50 width=50 src="https://user-images.githubusercontent.com/108730135/198892275-ec301c73-9f5d-4e07-b815-ef11fe4f95b3.svg" />&nbsp;&nbsp;&nbsp;<img height=50 width=50 src="https://user-images.githubusercontent.com/108730135/198892349-59af1584-078e-42ac-8f78-a904ec0cdd01.svg" />&nbsp;&nbsp;&nbsp;<img height=50 width=50 src="https://user-images.githubusercontent.com/108730135/198892446-50489260-608e-4ca9-807b-5890b9af0e8b.svg" />&nbsp;&nbsp;&nbsp;<img height=50 width=50 src="https://user-images.githubusercontent.com/108730135/198892487-0be3197e-97b2-455a-a603-e34432819192.svg" />&nbsp;&nbsp;&nbsp;<img height=50 width=50 src="https://user-images.githubusercontent.com/108730135/198892526-e03fc11e-9fe0-417c-8a68-56927bb7e8c1.svg" />
-<p>Python&nbsp;&nbsp;&nbsp;&nbsp;Pandas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;&nbsp;Bootstrap&nbsp;&nbsp;&nbsp;Sass</p>
+
 
 
 
