@@ -1,4 +1,3 @@
-## Accounts:
 <div class="badges">
   <a href="https://www.linkedin.com/in/batuhan-akcan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
@@ -6,6 +5,7 @@
   <a href="https://twitter.com/b__akcan">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=B-Akcan&style=flat-square&color=blue" alt=""/>
 </div>
 
 ## Languages and Tools:
