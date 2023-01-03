@@ -25,5 +25,3 @@
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" />&nbsp;
 </div>
 &nbsp;
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Akcan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
