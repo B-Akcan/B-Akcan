@@ -20,8 +20,6 @@
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />&nbsp;
-  <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />&nbsp;
-  <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" />&nbsp;
 </div>
 &nbsp;
