@@ -22,7 +22,7 @@
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" />&nbsp;
-  <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original-wordmark.svg" />&nbsp;
+  <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" />&nbsp;
