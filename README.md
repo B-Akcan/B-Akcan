@@ -29,3 +29,5 @@
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />&nbsp;
 </div>
 &nbsp;
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-akcan&layout=donut&theme=radical)
