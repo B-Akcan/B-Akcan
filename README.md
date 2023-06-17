@@ -1,10 +1,3 @@
-<div class="badges">
-  <a href="https://www.linkedin.com/in/batuhan-akcan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=B-Akcan&style=flat-square&color=blue" alt=""/>
-</div>
-
 ## Languages and Tools:
 <div>
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />&nbsp;
