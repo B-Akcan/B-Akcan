@@ -1,10 +1,10 @@
 ## Tools:
 <div>
+  <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" />&nbsp;
+  <img title="" alt="" width="50" height="50" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/scikitlearn.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />&nbsp;
-  <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" />&nbsp;
-  <img title="" alt="" width="50" height="50" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/scikitlearn.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" />&nbsp;
