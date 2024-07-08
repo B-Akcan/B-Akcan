@@ -2,6 +2,7 @@
 <div>
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" />&nbsp;
+  <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />&nbsp;
@@ -23,8 +24,8 @@
 ## Languages:
 <div>
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />&nbsp;
-  <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />&nbsp;
-  <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />&nbsp;
+  <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />&nbsp;
+  <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />&nbsp;
 </div>
