@@ -13,10 +13,9 @@
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" />&nbsp;
-  <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />&nbsp;
-  <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" />&nbsp;
+  <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />&nbsp;
-  <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" />&nbsp;
+  <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />&nbsp;
 </div>
 
 ## Languages:
