@@ -3,7 +3,7 @@
 <div>
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />&nbsp;
-  <img title="" alt="" width="50" height="50" src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" />&nbsp;
+  <img title="" alt="" src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" />&nbsp;
   <img title="" alt="" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" />&nbsp;
